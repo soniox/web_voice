@@ -1,0 +1,1 @@
+../dist/soniox-web-voice.js
